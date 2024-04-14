@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "LMCB_TestForm\\LMCB_TestForm.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      },
+      {
+        "Name": "ServerChatForm\\ServerChatForm.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
